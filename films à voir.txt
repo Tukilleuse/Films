@@ -14,7 +14,6 @@ Transcendance
 The giver
 Lucy
 L'age de glace
-sos fantome
 cendrillon
 les tuche 2 
 happiness therapy
@@ -74,7 +73,8 @@ les malheurs de Sophie
 L'économie du couple
 Le chasseur et la reine des glaces
 Melancholia
-dofusJoyeuse fêtes des mères
+dofus
+Joyeuse fêtes des mères
 les profs
 Nos pires voisins
 Tout Schuss
@@ -98,7 +98,6 @@ unfriended
 *PAS MAINTENANT
 **/
 Man down
-Assassin's Creed
 Baby Boss
 Grave
 Beauté cachée
@@ -118,11 +117,10 @@ La la land
 cinquante nuance de grey 
 Les figures de l'ombres 
 Traque à boston 
-John wick 
+John wick 2
 Si j'étais un homme
-Vaiana
 Ballerina
-Le cercle- ring
+
 
 
 /**
